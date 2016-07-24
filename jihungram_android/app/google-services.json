@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "669997811819",
+    "project_id": "jihungram"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669997811819:android:cc3bbe3af5932c3a",
+        "android_client_info": {
+          "package_name": "com.example.jihun.jihungram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbF7d3koQ5lehnxZ4GimBVipfMqX24pug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
